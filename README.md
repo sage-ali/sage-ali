@@ -48,7 +48,7 @@ Currently pursuing a Master's degree in Data Analytics and Technologies, Ali is 
 data Analysis, SQL scripting, and software development.
 
 - 🌱 I’m currently learning Python, React, Sass and Django
-- - 👯 I’m looking to collaborate on beginner friendly project with lots of learning oppurtunity
+- 👯 I’m looking to collaborate on beginner friendly project with lots of learning oppurtunity
 
 ## Contact Me
 
