@@ -43,11 +43,10 @@ Repository: [Link to Project 2](https://github.com/yourusername/project2)
 
 ## About Me
 
-Ali Tosin Agboola is a motivated junior software support developer with experience in Python and a strong background in object-oriented programming (OOP). 
-Currently pursuing a Master's degree in Data Analytics and Technologies, Ali is seeking a full-time position where he can contribute to software deployment, 
-data Analysis, SQL scripting, and software development.
+Ali is a motivated junior software support developer with experience in Python and a strong background in object-oriented programming (OOP). 
+Currently pursuing a Master's degree in Data Analytics and Technologies, Ali is seeking a full-time position where he can contribute to software deployment and data science projects.
 
-- 🌱 I’m currently learning Python, React, Sass and Django
+- 🌱 I’m currently learning React, Sass and Django
 - 👯 I’m looking to collaborate on beginner friendly project with lots of learning oppurtunity
 
 ## Contact Me
