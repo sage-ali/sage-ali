@@ -43,7 +43,7 @@ Repository: [Link to Project 2](https://github.com/yourusername/project2)
 
 ## About Me
 
-Ali is a motivated junior software support developer with experience in Python and a strong background in object-oriented programming (OOP). 
+Ali is a motivated junior software support developer/ Data scientist with experience in Python and a strong background in object-oriented programming (OOP). 
 Currently pursuing a Master's degree in Data Analytics and Technologies, Ali is seeking a full-time position where he can contribute to software deployment and data science projects.
 
 - 🌱 I’m currently learning React, Sass and Django
