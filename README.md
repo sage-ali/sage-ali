@@ -1,62 +1,32 @@
-### Hi there 👋
+# Hi, I'm Ali 👋
 
-<!--
-**sage-ali/sage-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software engineer building AI agents — and the production systems around them.**
+I work across the stack with a focus on AI, data, and cloud, and a bias for shipping things end to end and explaining the *why* behind them.
 
-Here are some ideas to get you started:
+> **Building AI that reasons.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Ali's GitHub Account
+Completed MSc in Data Analytics & Technologies, and currently building a portfolio of production-grade projects at **[alisage.dev](https://alisage.dev)**.
 
-Welcome to my GitHub account! This repository serves as a landing page to showcase my projects and contributions. Feel free to explore and discover the work I've done.
+## Core stack
+**Languages** — Python · TypeScript · JavaScript · SQL
+**Backend** — FastAPI · NestJS · Node.js
+**Frontend** — React · Next.js · Tailwind CSS
+**Data** — Pandas · NumPy · PostgreSQL · MongoDB
 
-## Featured Projects
+## Currently working with
+**AI & agents** — LLMs · RAG · vector databases
+**Data engineering** — dbt · ETL/ELT pipelines · warehousing
+**Cloud & DevOps** — Docker · AWS · Azure · Google Cloud · CI/CD
 
-Under construction😄....
+## What I'm building
+- AI agents and the backend, data, and cloud systems that support them
+- A cross-functional portfolio at **[alisage.dev](https://alisage.dev)** — full-stack apps, data pipelines, and AI features, each deployed and documented
+- Write-ups of the engineering trade-offs behind each project
 
-<!--
-### Project 1
+## Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Agboola-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-agboola/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alisage.dev-84B59A?logoColor=white)](https://alisage.dev)
+[![Email](https://img.shields.io/badge/Email-aliagboola1%40gmail.com-1B252A?logo=gmail&logoColor=white)](mailto:aliagboola1@gmail.com)
 
-Description: Provide a brief description of one of your featured projects. Highlight its key features and technologies used.
-
-![Project 1](path/to/project1-screenshot.png)
-
-Repository: [Link to Project 1](https://github.com/yourusername/project1)
-
-### Project 2
-
-Description: Provide a brief description of another featured project. Highlight its key features and technologies used.
-
-![Project 2](path/to/project2-screenshot.png)
-
-Repository: [Link to Project 2](https://github.com/yourusername/project2)
-
--->
-
-## About Me
-
-Ali is a motivated junior software support developer/ Data scientist with experience in Python and a strong background in object-oriented programming (OOP). 
-Currently pursuing a Master's degree in Data Analytics and Technologies, Ali is seeking a full-time position where he can contribute to software deployment and data science projects.
-
-- 🌱 I’m currently learning React, Sass and Django
-- 👯 I’m looking to collaborate on beginner friendly project with lots of learning oppurtunity
-
-## Contact Me
-
-- Email: aliagboola1@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ali-agboola/)
-<!--- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com/)-->
-
-Feel free to reach out to me for collaborations or any inquiries.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+---
+*I build in the open and document the reasoning. Always happy to talk AI agents, fintech, or data infrastructure.*
